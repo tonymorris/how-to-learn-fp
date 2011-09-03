@@ -3,8 +3,35 @@
 <!DOCTYPE articleinfo PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
     "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
 
-<articleinfo id="DocbookDocumentInfo" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <xi:include href="articleinfo/author/tony.xml"/>
-  <xi:include href="articleinfo/copyright.xml"/>
-  <title id="Title">Docbook Document</title>
+<articleinfo id="ArticleHeader">
+  <abstract id="Abstract">
+    <para>
+      This presentation is intended for the June 2010 meeting of the Brisbane Functional Programming Group
+      <ulink url="http://www.meetup.com/Brisbane-Functional-Programming-Group-BFG/"/>.
+    </para>
+    <para>
+      TODO
+    </para>
+    <para>
+      This work is licensed under a Creative Commons Attribution-Share Alike 3.0 Unported License
+      <xref linkend="Licence"/>.
+    </para>
+  </abstract>
+  <author id="Author">
+    <firstname>Tony</firstname>
+    <surname>Morris</surname>
+    <address>
+      <email>tmorris@tmorris.net</email>
+      <city>Brisbane</city>
+      <state>Queensland</state>
+      <country>Australia</country>
+    </address>
+  </author>
+  <copyright id="Copyright">
+    <year>2010</year>
+    <holder>
+      Tony Morris
+    </holder>
+  </copyright>
+  <title id="Title">How to Learn Functional Programming</title>
 </articleinfo>

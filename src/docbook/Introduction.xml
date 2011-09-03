@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE sect1 PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+    "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<sect1 id="Introduction" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Introducton</title>
+  <para>
+<programlisting>
+  Tom Adams:   there is still a 15 minute slot for a talk
+  Tom Adams:   people are frightened by FP
+  Tom Adams:   it's not scary at all
+  Tony Morris: Why You Should HTFU -- 15 minutes
+  Tom Adams:   cool  :)
+  Tom Adams:   so let's send OJ an email
+  Tom Adams:   1) him on erlang
+  Tom Adams:   2) me on that "map/reduce" stuff
+  Tom Adams:   3) HTFU
+  Tony Morris: excellent
+  Tom Adams:   who is doing HTFU?
+  Tom Adams:   you?
+  Tony Morris: yeah I'll do it
+</programlisting>
+  </para>
+</sect1>

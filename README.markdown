@@ -1,7 +1,7 @@
-Docbook Document
-================
+How to Learn Functional Programming
+===================================
 
-A template from which to create a Docbook document.
+Slides on a talk on how to learn functional programming.
 
 Setting up
 ==========

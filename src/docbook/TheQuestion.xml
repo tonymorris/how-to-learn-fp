@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE sect1 PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+    "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<sect1 id="TheQuestion" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>The Question</title>
+  <sect2>
+    <title>I am regularly asked</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          <emphasis>Exactly how do I get started learning Functional Programming?</emphasis>
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          And each time I have three choices
+          <orderedlist>
+            <listitem>
+              <para>
+                Ignore the question
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Give an answer that sounds easy, satisfies the enquirer, but I know deep down it won't help.
+              </para>
+            </listitem>
+            <listitem>
+              <para>
+                Honest up at the risk of sounding mean, nasty and totally confuzzling.
+                <emphasis>&lt;-- we are going to do this today.</emphasis>
+              </para>
+            </listitem>
+          </orderedlist>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+  <sect2>
+    <title>Curriculum Vitæ</title>
+    I have taught (functional) programming to many people
+    <itemizedlist>
+      <listitem>
+        <para>
+          Children
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Health professionals
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          An accountant
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          A police officer
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Computer Science students
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          <emphasis>Programmers!</emphasis>
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+  <sect2>
+    <title>Prognosis</title>
+    <subtitle>And I have repeatedly found that...</subtitle>
+    <para>
+      Programmers have a significantly worse prognosis than everyone else!
+    </para>
+  </sect2>
+  <sect2>
+    <title>Oh no I am doomed!</title>
+    <itemizedlist>
+      <listitem>
+        <para>
+          No you're not
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          You're already using Functional Programming, knowingly or not
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Your ability to learn is exactly proportional to your ability to ditch the anti-thetical cognitive behaviours
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          Nothing I say today can prepare you for how psychologically traumatic this can be<footnote>
+          <para>
+            No this was not a joke that you failed to understand.
+          </para>
+          </footnote>, so I won't
+        </para>
+      </listitem>
+    </itemizedlist>
+  </sect2>
+</sect1>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<!DOCTYPE bibliography PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+    "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<bibliography id="Bibliography">
+  <biblioentry id="EssenceFP">
+    <abbrev>EssenceFp</abbrev>
+    <author>
+      <firstname>
+        Philip
+      </firstname>
+      <surname>
+        Wadler
+      </surname>
+    </author>
+    <pubdate>
+      1992
+    </pubdate>
+    <title>
+      The Essence of Functional Programming
+    </title>
+  </biblioentry>
+  <biblioentry id="WhyFP">
+    <abbrev>WhyFP</abbrev>
+    <author>
+      <firstname>
+        John
+      </firstname>
+      <surname>
+        Hughes
+      </surname>
+    </author>
+    <pubdate>
+      1984
+    </pubdate>
+    <title>
+      Why Functional Programming Matters
+    </title>
+  </biblioentry>
+  <biblioentry id="CanWeBeLiberated">
+    <abbrev>CanWeBeLiberated</abbrev>
+    <author>
+      <firstname>
+        John
+      </firstname>
+      <surname>
+        Backus
+      </surname>
+    </author>
+    <pubdate>
+      1977
+    </pubdate>
+    <title>
+      Can We Be Liberated From the von Neumann Machine?
+    </title>
+  </biblioentry>
+</bibliography>
