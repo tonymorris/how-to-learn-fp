@@ -40,39 +40,41 @@
   </sect2>
   <sect2>
     <title>Curriculum Vit&#230;</title>
-    I have taught (functional) programming to many people
-    <itemizedlist>
-      <listitem>
-        <para>
-          Children
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          Health professionals
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          An accountant
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          A police officer
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          Computer Science students
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          <emphasis>Programmers!</emphasis>
-        </para>
-      </listitem>
-    </itemizedlist>
+    <para>
+      I have taught (functional) programming to many people
+      <itemizedlist>
+        <listitem>
+          <para>
+            Children
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Health professionals
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            An accountant
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            A police officer
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            Computer Science students
+          </para>
+        </listitem>
+        <listitem>
+          <para>
+            <emphasis>Programmers!</emphasis>
+          </para>
+        </listitem>
+      </itemizedlist>
+    </para>
   </sect2>
   <sect2>
     <title>Prognosis</title>
